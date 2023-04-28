@@ -1,4 +1,6 @@
-### Olá! Eu sou o Rafael Oliveira ✋
+### Olá! Eu sou o Rafael Oliveira! ✋
+Um apaixonado por tecnologia que se destaca nas principais ferramentas de desenvolvimento web, como React, HTML, CSS, JavaScript e entre outras. Atualmente, estou em um processo de migração de carreira, em busca de novos desafios e oportunidades para crescer profissionalmente. Além disso, sou um grande fã de música e toca alguns instrumentos como passatempo, mostrando minha criatividade e habilidades artísticas. Com uma mentalidade inovadora e curiosa, buscando sempre aprender mais e se manter atualizado no mundo da tecnologia, buscando novas formas de aplicar suas habilidades e conhecimentos em projetos desafiadores e inovadores.
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafaelret)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelods/)
