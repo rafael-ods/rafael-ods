@@ -5,11 +5,7 @@ E sou um entusiasta de tecnologia. Adoro trabalhar com React, HTML, CSS, JavaScr
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelods/)
 
-<div align="center">
-  <a href="https://github.com/rafael-ods">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-ods&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-ods&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
   <br>
   <div> 
     <h4>Tecnologias que eu uso no meu dia</h4> 
@@ -24,6 +20,5 @@ E sou um entusiasta de tecnologia. Adoro trabalhar com React, HTML, CSS, JavaScr
     <img alt="React" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" align="center">
 </div>
  
-  ![Snake animation](https://github.com/rafael-ods/rafael-ods/blob/output/github-contribution-grid-snake.svg)
  
 </div>
